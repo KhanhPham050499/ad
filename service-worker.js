@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quanlytruong/precache-manifest.c3a45b9544c4823baef070b7d637386e.js"
+  "/quanlytruong/precache-manifest.4c00b7383824d47bff385b3bfb231046.js"
 );
 
 self.addEventListener('message', (event) => {
